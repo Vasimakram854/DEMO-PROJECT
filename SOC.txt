@@ -1,0 +1,48 @@
+AGILE METHODOLOGY OR AGILE PRACTICES
+
+LIFECYCLE PHASES:
+1.	Requirements.
+2.	Design.
+3.	Coding.
+4.	Testing.
+5.	Deployment.
+6.	Maintenance.
+
+THE MAJOR MODELS USED IN SOFTWARE ENGINEERING:
+1.	Water Fall Model.
+2.	Prototyping Model.
+3.	Spiral Model.
+
+AGILE PRACTICES:
+Agile methodology is nothing but a systematic engineering approach to deliver software products in software industry.
+
+
+
+
+AGILE PRINCIPLES:
+
+1.	Our highest priority is to satisfy the customer through EARLY AND CONTINUOS DEIVERY of valuable software.
+2.	Welcome CHANGING REQUIREMENTS even late in development agile process change for customer for the customer's COMPETATIVE ADVANTAGE.
+3.	DELIVER WORKING SOFTWARE frequently from a couple of weeks to a couple of months with a preference to the SHORTER TIMESCALE.
+4.	Business people and developers must work TOGETHER DAILY throughout the project.
+5.	The most efficient and effective method of conveying information to and within a development team is FACE TO FACE CONVERSATION.
+6.	Build projects around MOTIVATIONAL INDIVIDUALS file then the environment support they need. 
+7.	WORKING software is the measure of PROGRESS.
+8.	Agile process promotes SUSTAINABLE development the sponsors developers maintain constant pace INDEFINITELY.
+9.	TECHNICAL EXCELLENCE AND GOOD DESIGN.
+10.	SELF ORGANISING TEAM CULTURING.
+
+Cross-functional team:
+1.	Every agile team contains self-sufficient team with 5 to 9 team members.
+2.	The average experience of each member ranges from 6 to 10 years.
+3.	The agile team contains 3 to 4 developers, 1 tester, 1 technical lead, 1 scrum master and 1 product owner.
+4.	The Scrum master and Product owner are considered as a part of Team Interface, on the other hand remaining members are the part of Technical Interface.
+
+WORKING WITH GIT:
+
+1.	Sing in GIT HUB account.
+2.	Click on REPOSETRIES again click NEW REPOSETERY.
+3.	Give new to reposetery name as DEMO PROJECT and make it as PUBLIC.
+
+ADDING COLABRATERS IN GIT HUB:
+
